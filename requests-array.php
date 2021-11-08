@@ -4,7 +4,7 @@
         [
             'checked' => 0,
             'title' => 'SSL certificate',
-            'description' => 'Enable SSL',
+            'description' => 'Enablee SSL',
         ],
        [
            'checked' => 0,
