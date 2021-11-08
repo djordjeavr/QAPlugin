@@ -3,7 +3,7 @@
  * Plugin Name: QA Plugin
  * Plugin URI: https://singularity.is
  * Description: This is a qa plugin with checklist for object web pages
- * Version: 1.1
+ * Version: 1.2
  * Author: Miljana Pinic
  **/
 
